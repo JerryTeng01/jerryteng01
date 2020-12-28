@@ -1,9 +1,4 @@
 ### hi :)
-![Jerry's github stats](https://github-readme-stats.vercel.app/api?username=JerryTeng01&count_private=true&show_icons=true&hide_rank=true)
-<br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerryTeng01&langs_count=10)
-<br />
-![Jerry's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JerryTeng01)
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
@@ -90,3 +85,5 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+Metrics from [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats#update-your-readme)
