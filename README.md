@@ -56,3 +56,5 @@ C++                      1 repo              ██░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+Stats from [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
