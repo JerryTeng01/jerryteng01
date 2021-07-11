@@ -1,7 +1,7 @@
 ### hi :)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-773948%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-773952%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -12,7 +12,8 @@
 C++                      7 mins              ███████████████████░░░░░░   75.79% 
 Python                   2 mins              █████░░░░░░░░░░░░░░░░░░░░   20.66% 
 VimL                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.1% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45% 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
 Vim                      10 mins             █████████████████████████   100.0%
@@ -35,7 +36,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/07/2021
+ Last Updated on 11/07/2021
 <!--END_SECTION:waka-->
 
 Stats from [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
