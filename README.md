@@ -9,7 +9,7 @@
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 🔥 Editors: 
 No Activity Tracked This Week
@@ -32,7 +32,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2021
+ Last Updated on 01/08/2021
 <!--END_SECTION:waka-->
 
 Stats from [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
