@@ -9,13 +9,16 @@
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     8 mins              ███████████░░░░░░░░░░░░░░   46.54% 
+VimL                     7 mins              ██████████░░░░░░░░░░░░░░░   41.93% 
+Other                    2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.54% 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Vim                      18 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    18 mins             █████████████████████████   100.0%
 
 ```
 
@@ -32,7 +35,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2021
+ Last Updated on 12/08/2021
 <!--END_SECTION:waka-->
 
 Stats from [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
