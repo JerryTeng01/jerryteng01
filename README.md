@@ -36,7 +36,7 @@ TeX                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 09/01/2022
+ Last Updated on 10/01/2022
 <!--END_SECTION:waka-->
 
 Stats from [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
