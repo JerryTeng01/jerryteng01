@@ -8,7 +8,7 @@
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: America/Chicago
+⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
 No Activity Tracked This Week
@@ -34,7 +34,7 @@ Java                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 08/06/2022 02:02:10 UTC
+ Last Updated on 09/06/2022 02:03:02 UTC
 <!--END_SECTION:waka-->
 
 Stats from [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
