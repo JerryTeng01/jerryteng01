@@ -17,7 +17,7 @@ Other                    0 secs              ░░░░░░░░░░░�
 No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 ```
 
@@ -34,7 +34,7 @@ Java                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 03/07/2022 02:25:37 UTC
+ Last Updated on 04/07/2022 02:30:59 UTC
 <!--END_SECTION:waka-->
 
 Stats from [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
