@@ -1,7 +1,7 @@
 ### hi :)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-948%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-948%20hrs%204%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-600%20Thousand%20lines%20of%20code-blue)
 
@@ -11,15 +11,13 @@
 ⌚︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    4 mins              █████████████████░░░░░░░░   69.04% 
-Python                   2 mins              ███████░░░░░░░░░░░░░░░░░░   30.05% 
-netrw                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.91%
+Python                   1 min               █████████████████████████   100.0%
 
 🔥 Editors: 
-Vim                      6 mins              █████████████████████████   100.0%
+Vim                      1 min               █████████████████████████   100.0%
 
 💻 Operating System: 
-WSL                      6 mins              █████████████████████████   100.0%
+WSL                      1 min               █████████████████████████   100.0%
 
 ```
 
@@ -36,7 +34,7 @@ Java                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 29/11/2022 01:52:44 UTC
+ Last Updated on 30/11/2022 01:54:06 UTC
 <!--END_SECTION:waka-->
 
 Stats from [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
