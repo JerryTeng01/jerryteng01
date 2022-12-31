@@ -1,7 +1,7 @@
 ### hi :)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-949%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-949%20hrs%2030%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-601%20Thousand%20lines%20of%20code-blue)
 
@@ -37,7 +37,7 @@ Java                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 30/12/2022 01:42:26 UTC
+ Last Updated on 31/12/2022 01:39:20 UTC
 <!--END_SECTION:waka-->
 
 Stats from [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
