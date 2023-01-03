@@ -5,24 +5,6 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-601%20Thousand%20lines%20of%20code-blue)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-Python                   15 mins             ████████████████████████░   96.66% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.34%
-
-🔥 Editors: 
-Vim                      16 mins             █████████████████████████   100.0%
-
-💻 Operating System: 
-Linux                    15 mins             ████████████████████████░   97.37% 
-WSL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.63%
-
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -36,7 +18,7 @@ Java                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/01/2023 01:56:27 UTC
+ Last Updated on 03/01/2023 01:41:55 UTC
 <!--END_SECTION:waka-->
 
 Stats from [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
