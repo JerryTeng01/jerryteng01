@@ -1,7 +1,7 @@
 ### hi :)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-955%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-955%20hrs%2018%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
 
@@ -11,14 +11,14 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Vim Script               5 mins              ████████████████████████░   97.20 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+Vim Script               5 mins              ███████████████████░░░░░░   76.86 % 
+Git Config               1 min               ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
 
 🔥 Editors: 
-Vim                      5 mins              █████████████████████████   100.00 % 
+Vim                      6 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      5 mins              █████████████████████████   100.00 % 
+WSL                      6 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -34,7 +34,7 @@ YARA                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/03/2023 01:27:35 UTC
+ Last Updated on 23/03/2023 01:27:56 UTC
 <!--END_SECTION:waka-->
 
 Stats from [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
