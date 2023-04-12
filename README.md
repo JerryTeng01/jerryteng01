@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-961%20hrs%2014%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.0%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -23,9 +23,9 @@ WSL                      0 secs              ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   14 repos            █████████░░░░░░░░░░░░░░░░   34.15 % 
+Python                   13 repos            ████████░░░░░░░░░░░░░░░░░   31.71 % 
 JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-C                        4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+C                        5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
 Java                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
 YARA                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
@@ -33,7 +33,7 @@ YARA                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/04/2023 01:25:41 UTC
+ Last Updated on 12/04/2023 01:25:48 UTC
 <!--END_SECTION:waka-->
 
 Stats from [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
