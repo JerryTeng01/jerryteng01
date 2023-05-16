@@ -11,13 +11,13 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Vim                      0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -33,7 +33,7 @@ YARA                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/05/2023 01:36:11 UTC
+ Last Updated on 16/05/2023 01:28:30 UTC
 <!--END_SECTION:waka-->
 
 Stats from [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
