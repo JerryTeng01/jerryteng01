@@ -36,7 +36,7 @@ YARA                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/05/2023 01:29:21 UTC
+ Last Updated on 24/05/2023 01:38:00 UTC
 <!--END_SECTION:waka-->
 
 Stats from [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
