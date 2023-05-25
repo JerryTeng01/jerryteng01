@@ -11,16 +11,13 @@
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    0 secs              ██████████████████████░░░   87.26 % 
-Text                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Vim                      0 secs              ██████████████████████░░░   87.26 % 
-VS Code                  0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      0 secs              ██████████████████████░░░   87.26 % 
-Windows                  0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -36,7 +33,7 @@ YARA                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/05/2023 01:38:00 UTC
+ Last Updated on 25/05/2023 01:27:44 UTC
 <!--END_SECTION:waka-->
 
 Stats from [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
