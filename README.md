@@ -23,17 +23,17 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   14 repos            ████████░░░░░░░░░░░░░░░░░   31.11 % 
-JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-C                        5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-YARA                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Python                   14 repos            ████████░░░░░░░░░░░░░░░░░   31.82 % 
+JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+C                        5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+YARA                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 ```
 
 
 
 
- Last Updated on 28/09/2024 01:44:06 UTC
+ Last Updated on 29/09/2024 01:51:57 UTC
 <!--END_SECTION:waka-->
 
 Stats from [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
