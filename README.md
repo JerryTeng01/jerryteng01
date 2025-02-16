@@ -1,8 +1,6 @@
 ### hi :)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-971%20hrs%2010%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.5%20million%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
@@ -33,7 +31,7 @@ YARA                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/02/2025 01:44:02 UTC
+ Last Updated on 16/02/2025 01:51:46 UTC
 <!--END_SECTION:waka-->
 
 Stats from [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
